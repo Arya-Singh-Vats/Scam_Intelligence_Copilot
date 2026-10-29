@@ -1,0 +1,15 @@
+{
+  "test_samples": 1034,
+  "baseline": {
+    "accuracy": 0.9913,
+    "spam_precision": 0.942,
+    "spam_recall": 0.9924,
+    "spam_f1": 0.9665
+  },
+  "distilbert": {
+    "accuracy": 0.9894,
+    "spam_precision": 0.9839,
+    "spam_recall": 0.9313,
+    "spam_f1": 0.9569
+  }
+}

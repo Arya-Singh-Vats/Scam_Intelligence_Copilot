@@ -1,0 +1,59 @@
+
+[
+  {
+    "id": "KB001",
+    "topic": "Phishing links",
+    "source": "CISA Phishing and Spoofing Tip Sheet",
+    "url": "https://www.cisa.gov/sites/default/files/publications/phishing_and_spoofing_tip_sheet_2022_092022.pdf",
+    "content": "Phishing messages may contain links to malicious websites that imitate legitimate organizations. Avoid clicking unexpected links. Verify the sender and visit the organization's official website independently."
+  },
+  {
+    "id": "KB002",
+    "topic": "Urgency and account threats",
+    "source": "NIST Phishing Guidance",
+    "url": "https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/phishing",
+    "content": "Phishing messages often pressure recipients to act immediately by claiming that an account is blocked or information is at risk. Pause and independently verify urgent requests using known official contact information."
+  },
+  {
+    "id": "KB003",
+    "topic": "Passwords and sensitive information",
+    "source": "FBI Spoofing and Phishing Guidance",
+    "url": "https://www.fbi.gov/how-we-can-help-you/common-frauds-and-scams/spoofing-and-phishing",
+    "content": "Attackers may impersonate trusted organizations to obtain passwords, financial information, or account details. Do not submit sensitive information through unexpected message links. Contact the organization through independently verified channels."
+  },
+  {
+    "id": "KB004",
+    "topic": "Prize and payment scams",
+    "source": "FTC Consumer Advice - Prize Scams",
+    "url": "https://consumer.ftc.gov/consumer-alerts/2023/04/are-you-really-lucky-winner-spot-prize-scams",
+    "content": "Unexpected prize messages that demand upfront processing fees, taxes, or other payments are a warning sign of a prize scam. Do not pay to claim an unexpected prize or share financial information. Verify the offer independently and report suspected scams to the appropriate authority."
+  },
+  {
+    "id": "KB005",
+    "topic": "Safe response to suspicious messages",
+    "source": "CISA Phishing and Spoofing Tip Sheet",
+    "url": "https://www.cisa.gov/sites/default/files/publications/phishing_and_spoofing_tip_sheet_2022_092022.pdf",
+    "content": "Do not reply to suspicious messages or open their links and attachments. Contact the supposed sender through a trusted channel. Report suspicious messages through the relevant organization's reporting process."
+  },
+  {
+    "id": "KB006",
+    "topic": "OTP and verification-code scams",
+    "source": "FTC Consumer Advice - Verification Code Scams",
+    "url": "https://consumer.ftc.gov/consumer-alerts/2024/03/whats-verification-code-why-would-someone-ask-me-it",
+    "content": "Scammers may impersonate trusted organizations and ask people to share verification codes to gain access to their accounts. Never share a verification code with someone who contacts you unexpectedly. If you are concerned about your account, contact the organization using a trusted phone number or its official app or website."
+  },
+  {
+    "id": "KB007",
+    "topic": "Reporting phishing and suspicious messages",
+    "source": "CISA Phishing General Security Postcard",
+    "url": "https://www.cisa.gov/sites/default/files/2024-02/Update%20to%20Phishing%20General%20Security%20Postcard_01.01.2024.pdf",
+    "content": "If a message appears suspicious, avoid clicking its links or opening its attachments. Report it to your organization's IT or security team and follow the applicable incident-reporting process. For personal accounts, use the relevant service's official reporting tools."
+  },
+  {
+    "id": "KB008",
+    "topic": "Delivery and parcel-fee scams",
+    "source": "FTC Consumer Advice",
+    "url": "https://consumer.ftc.gov/consumer-alerts/2025/04/think-text-message-usps-it-could-be-scam",
+    "content": "Unexpected messages demanding payment through a link to release a parcel may be fraudulent. Do not use the message link to pay. Check delivery status directly through the courier's official website or app, using a trusted address. Never provide passwords or verification codes in response to unexpected delivery messages."
+  }
+]

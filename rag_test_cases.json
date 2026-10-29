@@ -1,0 +1,123 @@
+
+[
+  {
+    "query_id": "Q1",
+    "category": "Prize scam",
+    "message": "I won a cash prize but must pay a processing fee before receiving it.",
+    "relevant_doc_ids": ["KB004"]
+  },
+  {
+    "query_id": "Q2",
+    "category": "Bank phishing",
+    "message": "My bank says my account will be blocked unless I verify my password using a link.",
+    "relevant_doc_ids": ["KB001", "KB002", "KB003"]
+  },
+  {
+    "query_id": "Q3",
+    "category": "Credential theft",
+    "message": "Someone is asking me to share my one-time password and banking details.",
+    "relevant_doc_ids": ["KB003", "KB006"]
+  },
+  {
+    "query_id": "Q4",
+    "category": "Suspicious link",
+    "message": "I received an unexpected link that may lead to a fake website.",
+    "relevant_doc_ids": ["KB001", "KB005"]
+  },
+  {
+    "query_id": "Q5",
+    "category": "Urgent account threat",
+    "message": "Act immediately or your account will be suspended today.",
+    "relevant_doc_ids": ["KB002"]
+  },
+  {
+    "query_id": "Q6",
+    "category": "Suspicious message response",
+    "message": "How should I safely report and verify an unexpected suspicious message?",
+    "relevant_doc_ids": ["KB005", "KB002"]
+  },
+  {
+    "query_id": "Q7",
+    "category": "Payment request",
+    "message": "An unknown sender wants me to send money before I can receive an offer.",
+    "relevant_doc_ids": ["KB005"]
+  },
+  {
+    "query_id": "Q8",
+    "category": "Password theft",
+    "message": "A message asks me to enter my login credentials on an unfamiliar website.",
+    "relevant_doc_ids": ["KB003", "KB001"]
+  },
+  {
+    "query_id": "Q9",
+    "category": "Bank phishing",
+    "message": "Your bank account will be suspended. Click this link to verify your login credentials immediately.",
+    "relevant_doc_ids": ["KB001", "KB002", "KB003"]
+  },
+  {
+    "query_id": "Q10",
+    "category": "OTP theft",
+    "message": "Share the OTP sent to your phone to prevent your account from being blocked.",
+    "relevant_doc_ids": ["KB006", "KB002", "KB003"]
+  },
+  {
+    "query_id": "Q11",
+    "category": "Fake lottery",
+    "message": "Congratulations, you won a lottery prize. Pay the processing fee to receive your reward.",
+    "relevant_doc_ids": ["KB004"]
+  },
+  {
+    "query_id": "Q12",
+    "category": "Suspicious link",
+    "message": "Open this shortened link to claim your account reward before it expires.",
+    "relevant_doc_ids": ["KB001"]
+  },
+  {
+    "query_id": "Q13",
+    "category": "Password reset phishing",
+    "message": "Your password expires today. Use this unexpected link to reset it immediately.",
+    "relevant_doc_ids": ["KB001", "KB002", "KB003"]
+  },
+  {
+    "query_id": "Q14",
+    "category": "Financial information theft",
+    "message": "Send your bank account number and financial details to receive your cash reward.",
+    "relevant_doc_ids": ["KB003", "KB004"]
+  },
+  {
+    "query_id": "Q15",
+    "category": "Malicious attachment",
+    "message": "Download the attached document immediately to avoid account suspension.",
+    "relevant_doc_ids": ["KB002", "KB005"]
+  },
+  {
+    "query_id": "Q16",
+    "category": "Safe response",
+    "message": "I received an unexpected email asking for my password. How should I respond safely?",
+    "relevant_doc_ids": ["KB003", "KB005"]
+  },
+  {
+    "query_id": "Q17",
+    "category": "Delivery fee scam",
+    "message": "Pay an unexpected delivery processing fee through this link to release your parcel.",
+    "relevant_doc_ids": ["KB008", "KB001", "KB005"]
+  },
+  {
+    "query_id": "Q18",
+    "category": "Sender verification",
+    "message": "A message claims to be from my bank and asks me to verify my account. How can I check if it is genuine?",
+    "relevant_doc_ids": ["KB001", "KB002", "KB003"]
+  },
+  {
+    "query_id": "Q19",
+    "category": "Prize fee scam",
+    "message": "You have been selected for a prize. Transfer money first to unlock your winnings.",
+    "relevant_doc_ids": ["KB004"]
+  },
+  {
+    "query_id": "Q20",
+    "category": "Account threat",
+    "message": "We detected unusual activity. Click this link and provide your password immediately.",
+    "relevant_doc_ids": ["KB001", "KB002", "KB003"]
+  }
+]
